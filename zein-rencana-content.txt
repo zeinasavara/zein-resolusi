@@ -3,6 +3,7 @@ RENCANA KONTEN ZEIN
 - Javascript
   * ES6
   * Framework Javascript
+- Struktu Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
