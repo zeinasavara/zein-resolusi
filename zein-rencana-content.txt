@@ -4,6 +4,7 @@ RENCANA KONTEN ZEIN
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktu Data Dasar
 - PHP Frameworks
   * Laravel
